@@ -177,7 +177,7 @@ nav button:hover {
   padding-left: 2rem;
 }
 .app-maintenance:hover {
-  background-image: url(/img/service-bg.jpg);
+  background-image: url(img/service-bg.jpg);
   background-position: right;
   transition: 0.5s ease-in;
 }
@@ -190,7 +190,7 @@ nav button:hover {
   padding-left: 2rem;
 }
 .rocket-speed:hover {
-  background-image: url(/img/service-bg.jpg);
+  background-image: url(img/service-bg.jpg);
   background-position: right;
   transition: 0.5s ease-in;
 }
@@ -203,7 +203,7 @@ nav button:hover {
   padding-left: 2rem;
 }
 .workflow-idea:hover {
-  background-image: url(/img/service-bg.jpg);
+  background-image: url(img/service-bg.jpg);
   background-position: right;
   transition: 0.5s ease-in;
 }
@@ -216,7 +216,7 @@ nav button:hover {
   padding-left: 2rem;
 }
 .help-support:hover {
-  background-image: url(/img/service-bg.jpg);
+  background-image: url(img/service-bg.jpg);
   background-position: right;
   transition: 0.5s ease-in;
 }
@@ -249,7 +249,7 @@ nav button:hover {
 .sectionThree-left {
   padding-left: 2rem;
   padding-top: 15rem;
-  background-image: url(/img/services-left-dec.png);
+  background-image: url(img/services-left-dec.png);
   background-repeat: no-repeat;
   height: 100%;
 }
@@ -269,7 +269,7 @@ nav button:hover {
 }
 .sectionThree-right {
   margin-top: 8rem;
-  background-image: url(/img/about-bg.jpg);
+  background-image: url(img/about-bg.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 50%;
@@ -296,7 +296,7 @@ nav button:hover {
   padding-top: 10px;
 }
 .sectionThree-service-box:hover {
-  background-image: url(/img/service-bg.jpg);
+  background-image: url(img/service-bg.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -788,7 +788,7 @@ footer {
     padding-left: 2rem;
   }
   .app-maintenance:hover,.rocket-speed:hover,.workflow-idea:hover, .help-support:hover {
-    background-image: url(/img/service-bg.jpg);
+    background-image: url(img/service-bg.jpg);
     background-position: right;
     transition: 0.5s ease-in;
   }
@@ -821,7 +821,7 @@ footer {
   .sectionThree-left {
     padding-left: 2rem;
     padding-top: 15rem;
-    background-image: url(/img/services-left-dec.png);
+    background-image: url(img/services-left-dec.png);
     background-repeat: no-repeat;
     height: 100%;
   }
@@ -842,7 +842,7 @@ footer {
   }
   .sectionThree-right {
     margin-top: 8rem;
-    background-image: url(/img/about-bg.jpg);
+    background-image: url(img/about-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 50%;
@@ -968,7 +968,7 @@ footer {
   .sectionThree-left {
     padding-left: 1rem;
     padding-top: 15rem;
-    background-image: url(/img/services-left-dec.png);
+    background-image: url(img/services-left-dec.png);
     background-repeat: no-repeat;
     height: 100%;
   }
@@ -989,7 +989,7 @@ footer {
   }
   .sectionThree-right {
     margin-top: 8rem;
-    background-image: url(/img/about-bg.jpg);
+    background-image: url(img/about-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 50%;
@@ -1068,7 +1068,7 @@ footer {
     padding: 1rem;
   }
   .nav-ul {
-    background-image: url(/img/pro-table-top.png);
+    background-image: url(img/pro-table-top.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
