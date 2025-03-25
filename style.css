@@ -181,6 +181,11 @@ nav button:hover {
   background-position: right;
   transition: 0.5s ease-in;
 }
+.app-maintenance:active {
+  background-image: url(img/service-bg.jpg);
+  background-position: right;
+  transition: 0.5s ease-in;
+}
 .rocket-speed {
   width: 250px;
   height: auto;
@@ -190,6 +195,11 @@ nav button:hover {
   padding-left: 2rem;
 }
 .rocket-speed:hover {
+  background-image: url(img/service-bg.jpg);
+  background-position: right;
+  transition: 0.5s ease-in;
+}
+.rocket-speed:active {
   background-image: url(img/service-bg.jpg);
   background-position: right;
   transition: 0.5s ease-in;
@@ -207,6 +217,11 @@ nav button:hover {
   background-position: right;
   transition: 0.5s ease-in;
 }
+.workflow-idea:active {
+  background-image: url(img/service-bg.jpg);
+  background-position: right;
+  transition: 0.5s ease-in;
+}
 .help-support{
   width: 250px;
   height: auto;
@@ -216,6 +231,11 @@ nav button:hover {
   padding-left: 2rem;
 }
 .help-support:hover {
+  background-image: url(img/service-bg.jpg);
+  background-position: right;
+  transition: 0.5s ease-in;
+}
+.help-support:active {
   background-image: url(img/service-bg.jpg);
   background-position: right;
   transition: 0.5s ease-in;
@@ -393,6 +413,13 @@ nav button:hover {
   border: 1px solid white;
 }
 .sectionFour-right-box:hover {
+  background-image: url(img/client-bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+
+  transition:  1s ease-out;
+}
+.sectionFour-right-box:active {
   background-image: url(img/client-bg.png);
   background-repeat: no-repeat;
   background-position: center;
@@ -1069,6 +1096,7 @@ footer {
   }
   .nav-ul {
     background-image: url(img/pro-table-top.png);
+    background-color: black;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1085,7 +1113,7 @@ footer {
     padding: 1rem;
   }
   nav a {
-    color: white;
+    color: black;
     font-size: 13px;
   }
   .hamburger-span {
@@ -1096,6 +1124,7 @@ footer {
     margin-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
+    color: black;
   }
   .span1-click {
     transform: rotate(60deg) translateY(5px);
